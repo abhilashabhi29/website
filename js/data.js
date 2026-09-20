@@ -44,6 +44,7 @@ const WORKS = [
     pdfFile: "pdfs/book-1.pdf",
     coverImage: "covers/book-1.jpg"
   },
+
   {
     id: "book-2",
     category: "books",
@@ -59,6 +60,7 @@ const WORKS = [
     pdfFile: "pdfs/book-2.pdf",
     coverImage: ""
   },
+
   {
     id: "book-3",
     category: "books",
@@ -74,6 +76,7 @@ const WORKS = [
     pdfFile: "pdfs/book-3.pdf",
     coverImage: ""
   },
+
   {
     id: "book-4",
     category: "books",
@@ -89,6 +92,7 @@ const WORKS = [
     pdfFile: "pdfs/book-4.pdf",
     coverImage: ""
   },
+
   {
     id: "book-5",
     category: "books",
@@ -104,6 +108,7 @@ const WORKS = [
     pdfFile: "pdfs/book-5.pdf",
     coverImage: ""
   },
+
   {
     id: "book-6",
     category: "books",
@@ -119,6 +124,7 @@ const WORKS = [
     pdfFile: "pdfs/book-6.pdf",
     coverImage: ""
   },
+
   {
     id: "book-7",
     category: "books",
@@ -147,8 +153,11 @@ const WORKS = [
     coverTone: 3,
     featured: true,
     linkLabel: "[READ ISSUE]",
-    linkUrl: "#"
+    linkUrl: "#",
+    pdfFile: "",
+    coverImage: ""
   },
+
   {
     id: "mag-2",
     category: "magazine",
@@ -160,8 +169,11 @@ const WORKS = [
     coverTone: 1,
     featured: false,
     linkLabel: "[READ ISSUE]",
-    linkUrl: "#"
+    linkUrl: "#",
+    pdfFile: "",
+    coverImage: ""
   },
+
   {
     id: "mag-3",
     category: "magazine",
@@ -173,8 +185,11 @@ const WORKS = [
     coverTone: 2,
     featured: false,
     linkLabel: "[DOWNLOAD PDF]",
-    linkUrl: "#"
+    linkUrl: "#",
+    pdfFile: "",
+    coverImage: ""
   },
+
   {
     id: "mag-4",
     category: "magazine",
@@ -186,23 +201,28 @@ const WORKS = [
     coverTone: 4,
     featured: false,
     linkLabel: "[READ ISSUE]",
-    linkUrl: "#"
+    linkUrl: "#",
+    pdfFile: "",
+    coverImage: ""
   },
 
   // ---------------- ARTICLES ----------------
   {
     id: "article-1",
     category: "articles",
-    title: "[ARTICLE_TITLE_1]",
-    year: "[YEAR]",
-    publisher: "[PUBLICATION / WEBSITE NAME]",
+    title: "New Test Article",
+    year: "2026",
+    publisher: "Home",
     shortDesc: "[DESCRIPTION — short summary of this article's subject and argument.]",
     longDesc: "[FULL DESCRIPTION — expand on the article's content, the occasion for writing it, and its key ideas, described in general terms rather than quoted text.]",
-    coverTone: 2,
+    coverTone: 1,
     featured: true,
     linkLabel: "[READ ARTICLE]",
-    linkUrl: "#"
+    linkUrl: "#",
+    pdfFile: "",
+    coverImage: ""
   },
+
   {
     id: "article-2",
     category: "articles",
@@ -214,8 +234,11 @@ const WORKS = [
     coverTone: 4,
     featured: false,
     linkLabel: "[READ ARTICLE]",
-    linkUrl: "#"
+    linkUrl: "#",
+    pdfFile: "",
+    coverImage: ""
   },
+
   {
     id: "article-3",
     category: "articles",
@@ -227,8 +250,11 @@ const WORKS = [
     coverTone: 1,
     featured: false,
     linkLabel: "[DOWNLOAD PDF]",
-    linkUrl: "#"
+    linkUrl: "#",
+    pdfFile: "",
+    coverImage: ""
   },
+
   {
     id: "article-4",
     category: "articles",
@@ -240,8 +266,11 @@ const WORKS = [
     coverTone: 3,
     featured: false,
     linkLabel: "[READ ARTICLE]",
-    linkUrl: "#"
+    linkUrl: "#",
+    pdfFile: "",
+    coverImage: ""
   },
+
   {
     id: "article-5",
     category: "articles",
@@ -253,7 +282,9 @@ const WORKS = [
     coverTone: 2,
     featured: false,
     linkLabel: "[READ ARTICLE]",
-    linkUrl: "#"
+    linkUrl: "#",
+    pdfFile: "",
+    coverImage: ""
   }
 ];
 
