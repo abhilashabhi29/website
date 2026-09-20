@@ -44,37 +44,37 @@ const WORKS = [
     pdfFile: "pdfs/book-1.pdf",
     coverImage: "covers/book-1.jpg"
   },
-  {
+    {
     id: "book-2",
     category: "books",
-    title: "ଅମୃତ ଝଙ୍କାର (Amrut Jhankar)",
-    year: "2021",
-    publisher: "[PUBLISHER]",
-    shortDesc: "A collection of spiritual sayings of Sri Maa and Sri Aurobindo rendered into Odia. Compiled and edited by Shantilata Pradhan. [DESCRIPTION — add a short synopsis.]",
-    longDesc: "Odia translation credited to [VERIFY — the cover's stylized curved text was hard to read with confidence; it appears to read approximately \"Arora Ashram companions\"]. Compiled and edited by Shantilata Pradhan.\n\n[FULL DESCRIPTION — add a complete description of this compilation's scope and selection.]",
-    coverTone: 2,
+    title: "କରୁଣା କଣିକାଏ (Karuna Kanikae)",
+    year: "2026",
+    publisher: "Graphics Art Offset Press, Nuapatna, Cuttack-1",
+    shortDesc: "A memoir (Smrutilipi) written by Shantilata Pradhan; the title translates to \"Drops of Compassion.\" [DESCRIPTION — add a short synopsis of its themes and content.]",
+    longDesc: "Written by Shantilata Pradhan. First Edition: January 2026. ISBN 978-81-984534-7-1.\n\n[FULL DESCRIPTION — add a complete description of this memoir's content and themes.]",
+    coverTone: 4,
     featured: true,
     linkLabel: "[VIEW / PURCHASE LINK]",
     linkUrl: "#",
-    pdfFile: "pdfs/book-2.pdf",
-    coverImage: ""
+    pdfFile: "pdfs/book-8.pdf",
+    coverImage: "covers/book-8.jpg"
   },
   {
     id: "book-3",
     category: "books",
-    title: "ଦିବ୍ୟଧାରା (Dibyadhara)",
-    year: "2018",
-    publisher: "[PUBLISHER]",
-    shortDesc: "A collection of spiritual writings of Sri Maa and Sri Aurobindo, translated into Odia by Jadunandan Samal. Compiled and edited by Shantilata Pradhan. [DESCRIPTION — add a short synopsis.]",
-    longDesc: "Odia translation by Jadunandan Samal. Compiled and edited by Shantilata Pradhan.\n\n[FULL DESCRIPTION — add a complete description of this compilation.]",
-    coverTone: 3,
+    title: "ଯୋଗ ଓ ଧର୍ମ (Yoga O Dharma)",
+    year: "2026",
+    publisher: "[PUBLISHER — left blank on the book's own copyright page; please fill in if known]",
+    shortDesc: "Described on the cover as \"Incorporating Sri Aurobindo's Philosophy.\" Translated by Dr. Banee Samanta; compiled and edited by Shantilata Pradhan. [DESCRIPTION — add a short synopsis.]",
+    longDesc: "Translated by Dr. Banee Samanta. Compiled and edited by Shantilata Pradhan. First Edition: 2026.\n\n[FULL DESCRIPTION — add a complete description of this compilation's content and themes.]",
+    coverTone: 1,
     featured: false,
     linkLabel: "[DOWNLOAD PDF]",
     linkUrl: "#",
-    pdfFile: "pdfs/book-3.pdf",
-    coverImage: ""
+    pdfFile: "pdfs/book-9.pdf",
+    coverImage: "covers/book-9.jpg"
   },
-  {
+ {
     id: "book-4",
     category: "books",
     title: "ହିରଣ୍ମୟ (Hiranmaya)",
@@ -134,6 +134,38 @@ const WORKS = [
     pdfFile: "pdfs/book-7.pdf",
     coverImage: ""
   },
+   {
+    id: "book-8",
+    category: "books",
+    title: "ଅମୃତ ଝଙ୍କାର (Amrut Jhankar)",
+    year: "2021",
+    publisher: "[PUBLISHER]",
+    shortDesc: "A collection of spiritual sayings of Sri Maa and Sri Aurobindo rendered into Odia. Compiled and edited by Shantilata Pradhan. [DESCRIPTION — add a short synopsis.]",
+    longDesc: "Odia translation credited to [VERIFY — the cover's stylized curved text was hard to read with confidence; it appears to read approximately \"Arora Ashram companions\"]. Compiled and edited by Shantilata Pradhan.\n\n[FULL DESCRIPTION — add a complete description of this compilation's scope and selection.]",
+    coverTone: 2,
+    featured: true,
+    linkLabel: "[VIEW / PURCHASE LINK]",
+    linkUrl: "#",
+    pdfFile: "pdfs/book-2.pdf",
+    coverImage: ""
+  },
+  {
+    id: "book-9",
+    category: "books",
+    title: "ଦିବ୍ୟଧାରା (Dibyadhara)",
+    year: "2018",
+    publisher: "[PUBLISHER]",
+    shortDesc: "A collection of spiritual writings of Sri Maa and Sri Aurobindo, translated into Odia by Jadunandan Samal. Compiled and edited by Shantilata Pradhan. [DESCRIPTION — add a short synopsis.]",
+    longDesc: "Odia translation by Jadunandan Samal. Compiled and edited by Shantilata Pradhan.\n\n[FULL DESCRIPTION — add a complete description of this compilation.]",
+    coverTone: 3,
+    featured: false,
+    linkLabel: "[DOWNLOAD PDF]",
+    linkUrl: "#",
+    pdfFile: "pdfs/book-3.pdf",
+    coverImage: ""
+  },
+
+
 
   // ---------------- MAGAZINE ----------------
   {
