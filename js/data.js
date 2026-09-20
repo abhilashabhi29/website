@@ -285,6 +285,22 @@ const WORKS = [
     linkUrl: "#",
     pdfFile: "",
     coverImage: ""
+  },
+
+  {
+    id: "article-fresh-article",
+    category: "articles",
+    title: "Fresh Article",
+    year: "2025",
+    publisher: "[PUBLICATION / WEBSITE NAME]",
+    shortDesc: "Short description",
+    longDesc: "Full description",
+    coverTone: 1,
+    featured: true,
+    linkLabel: "[READ ARTICLE]",
+    linkUrl: "#",
+    pdfFile: "",
+    coverImage: ""
   }
 ];
 
