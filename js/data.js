@@ -301,6 +301,22 @@ const WORKS = [
     linkUrl: "#",
     pdfFile: "",
     coverImage: "covers/article-fresh-article.jpg"
+  },
+
+  {
+    id: "article-the-mother",
+    category: "articles",
+    title: "The Mother",
+    year: "2026",
+    publisher: "[PUBLICATION / WEBSITE NAME]",
+    shortDesc: "Sri Maa",
+    longDesc: "In this exploration of the hitherto uncharted destiny of man, Sri Aurobindo’s collaborator was the Mother. Born Mirra Alfassa on 21 February 1878 in Paris, she studied at the Academie Julian and became an accomplished artist. Conscious of her spiritual mission on earth even as a child, the Mother was guided in her visions by one whom she called Krishna. When she met Sri Aurobindo in Pondicherry in 1914, she at once recognised him as the Krishna of her visions. After a sojourn in Japan, she returned to Pondicherry in 1920. When Sri Aurobindo went into seclusion in 1926 to fulfil the demand of his Yoga, she took charge of his disciples. In fact, the Ashram grew around her and was entirely shaped by her. After the Master’s passing away, she continued to nurture with unfathomable love the numerous souls who came to her thirsting for light.\n\nIn 1952 she started the Sri Aurobindo International Centre of Education, a seat of experiment in developing a system of integral education. In 1968 she founded the international township of Auroville, dedicated to the ideal of a living human unity. The Mother left her body on 17 November 1973.\n\nOf her life and work , the Mother once said: “I came to India to meet Sri Aurobindo. I remained in India to live with Sri Aurobindo. When he left his body I continued to live here in order to do this work which is, by serving the Truth and enlightening mankind, to hasten the rule of the Divine’s Love upon earth.”",
+    coverTone: 1,
+    featured: true,
+    linkLabel: "[READ ARTICLE]",
+    linkUrl: "#",
+    pdfFile: "",
+    coverImage: "covers/article-the-mother.jpg"
   }
 ];
 
