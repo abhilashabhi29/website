@@ -300,7 +300,7 @@ const WORKS = [
     linkLabel: "[READ ARTICLE]",
     linkUrl: "#",
     pdfFile: "",
-    coverImage: ""
+    coverImage: "covers/article-fresh-article.jpeg"
   }
 ];
 
